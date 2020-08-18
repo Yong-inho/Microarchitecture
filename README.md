@@ -5,9 +5,9 @@ Microarchitectural internal buffers introduced to optimize the performance of pr
 
 # Objective  
 *20-08-18*    
-Find a new attack vector exploiting microarchitectural side channel    
+Finding a new attack vector exploiting microarchitectural side channel    
 or    
-Find a new techinque that mitigates currently proposed microarchitectural side channel attacks    
+Finding a new techinque that mitigates currently proposed microarchitectural side channel attacks    
 
 # Plans
 *20-08-18*    
