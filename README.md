@@ -13,7 +13,7 @@ Find a new techinque that mitigates currently proposed microarchitectural side c
 *20-08-18*    
 Currently I studying... (see ./Papers directory)    
 <ol>
-<li>Meltdown and Meltdown-like attacks to understand how currently proposed attacks work.</li>    
+  <li>Meltdown and Meltdown-like attacks to understand how currently proposed attacks work.</li>    
   <li>Intel microarchitecture to find a new exploitable point.</li>
-  </ol>
+</ol>
 
