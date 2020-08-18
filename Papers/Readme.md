@@ -11,4 +11,5 @@
   </ul>
   <li>Fallout: Reading Kernel Writes From User Space</li>   
   <li>Zombieload: Cross-Privilege-Boundary Data Sampling</li>        
+  </ul>    
 # Spectre Attacks: Exploiting Speculative Execution
