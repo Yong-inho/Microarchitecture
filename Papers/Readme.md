@@ -3,6 +3,7 @@
   <li>KASLR is Dead: Long Live KASLR</li>    
   <li>Foreshadow: Extracting the Keys to the Intel SGX Kingdom with Transient Out-of-order Execution</li>   
   <ul>
+    <li>Innovative Instructions and Software Model for Isolated Execution</li>
     <li>Intel SGX Explained</li>   
   </ul>
   <li>RIDL: Rouge In-flight Data Load</li>    
