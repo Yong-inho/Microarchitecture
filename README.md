@@ -7,7 +7,7 @@ Starting point to find a new attack can be finding a way to execute instruction 
 that shouldn't be executed in normal condition and extract some data to covert channel. -> transient execution!    
 (어쩌면 이미 이러한 instruction sequence들이 인지되지 못한 채 빈번하게 cpu에서 실행되고 있을 수도 있다.)    
 Trying to Find a new covert channel also can be a good starting point.    
-Exploiting race condition...
+Exploiting race condition and covert channel...
 
 # Objective  
 *20-08-18*    
