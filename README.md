@@ -4,9 +4,10 @@ Microarchitectural internal buffers introduced to optimize the performance of pr
  currently become exploitable since side channel attacks(e.g., FLUSH+RELOAD), Meltdown, and Spectre were introduced.    
 *20-08-20*    
 Starting point to find a new attack can be finding a way to execute instruction sequences    
-that shouldn't be executed in normal condition and extract some data to covert channel. -> race condition!    
+that shouldn't be executed in normal condition and extract some data to covert channel. -> transient execution!    
 (어쩌면 이미 이러한 instruction sequence들이 인지되지 못한 채 빈번하게 cpu에서 실행되고 있을 수도 있다.)    
-Trying to Find a new covert channel also can be a good starting point.
+Trying to Find a new covert channel also can be a good starting point.    
+Exploiting race condition...
 
 # Objective  
 *20-08-18*    
