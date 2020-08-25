@@ -14,7 +14,7 @@
 </ul>    
 20-08-25    
 <ul>
- <li>Some microarchitectural optimization techniques and attack mitigation techniques bring a new surface of attack...
+ <li>Some microarchitectural optimization techniques and attack mitigation techniques bring a new surface of attack(microarchitectural data sampling(MDS)...
   <ul>
    <li>Out-of-order execution : Meltdown</li>
    <li>Branch prediction : Spectre</li>
