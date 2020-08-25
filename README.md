@@ -20,7 +20,7 @@
    <li>Branch prediction : Spectre</li>
    <li>Intel SGX : Foreshadow (SGX version of Meltdown)</li>
    <li>Internal buffer(LFB) : RIDL</li>
-   <li>Write Transient Forwarding(WTF) : Fallout</li>
+   <li>Store buffer and Write Transient Forwarding(WTF) : Fallout</li>
   </ul></li> 
 </ul>
 
