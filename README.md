@@ -4,7 +4,7 @@
  <li>Microarchitectural internal buffers introduced to optimize the performance of processors (e.g., Store buffer, Load buffer, Line fill buffer, etc...)
  currently become exploitable since side channel attacks(e.g., FLUSH+RELOAD), Meltdown, and Spectre were introduced.</li>    
 </ul>    
-*20-08-20*     
+20-08-20   
 <ul>
  <li>Starting point to find a new attack can be finding a way to execute instruction sequences    
  that shouldn't be executed in normal condition and extract some data to covert channel. -> transient execution!    
@@ -12,9 +12,9 @@
  <li>Trying to Find a new covert channel also can be a good starting point.</li>    
  <li>Exploiting race condition and covert channel...</li>    
 </ul>    
-*20-08-25*    
+20-08-25    
 <ul>
- <li>Some microarchitectural optimization techniques bring a new surface of attack...</li>
+ <li>Some microarchitectural optimization techniques and attack mitigation techniques bring a new surface of attack...</li>
 </ul>
 
 # Objective  
@@ -31,3 +31,4 @@ Currently I studying... (see ./Papers directory)
   <li>Intel microarchitecture to find a new exploitable point.</li>
 </ol>
 
+*
