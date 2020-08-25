@@ -14,7 +14,14 @@
 </ul>    
 20-08-25    
 <ul>
- <li>Some microarchitectural optimization techniques and attack mitigation techniques bring a new surface of attack...</li>
+ <li>Some microarchitectural optimization techniques and attack mitigation techniques bring a new surface of attack...
+  <ul>
+   <li>Out-of-order execution : Meltdown</li>
+   <li>Branch prediction : Spectre</li>
+   <li>Intel SGX : Foreshadow (SGX version of Meltdown)</li>
+   <li>Internal buffer(LFB) : RIDL</li>
+   <li>Write Transient Forwarding(WTF) : Fallout</li>
+  </ul></li> 
 </ul>
 
 # Objective  
